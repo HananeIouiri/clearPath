@@ -5,3 +5,5 @@ pyttsx3
 cv2
 pyttsx3
 threading
+simple_image_download
+labelImg
