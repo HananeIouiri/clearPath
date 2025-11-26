@@ -65,7 +65,5 @@ pip install -r requirements.txt
 - Smart navigation for robotics and embedded systems
 
 
-## 👩‍💻 Author
 
-Build with passion and ❤️ by 👩‍💻 [https://github.com/SoukainaLAKBICHI2]
 
